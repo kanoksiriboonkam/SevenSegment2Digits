@@ -1,0 +1,23 @@
+dependencies:
+  LED:
+    component_hash: c7e549a86120eb59d71f0b777c62dd88f3c02112d86e5af8a20171e3c08df7bf
+    source:
+      git: https://github.com/kanoksiriboonkam/LED_khim.git
+      path: components/LED
+      type: git
+    version: c9c51e5bef1d3e6ed1738c2c30e6bc3d35ed4714
+  SEVENSEGMENT:
+    component_hash: 2a0fbfe2203f9dc522196e992dd6561dd2885687899ea29e074193bb8484a2a2
+    source:
+      git: https://github.com/kanoksiriboonkam/SevenSegment.git
+      path: components/SevenSegment
+      type: git
+    version: ddc56deefd7c2e7dca0d75b88841e57db0426153
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.2
+manifest_hash: a5c131f3986f36838c84076ff3654512aaef0363265e3299f734f815b17a31b3
+target: esp32
+version: 1.0.0

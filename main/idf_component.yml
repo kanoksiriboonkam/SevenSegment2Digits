@@ -1,0 +1,7 @@
+dependencies:
+  LED:
+    git: https://github.com/kanoksiriboonkam/LED_khim.git
+    path: components/LED
+  SEVENSEGMENT:
+    git: https://github.com/kanoksiriboonkam/SevenSegment.git
+    path: components/SevenSegment
