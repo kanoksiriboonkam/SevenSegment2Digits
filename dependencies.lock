@@ -7,12 +7,12 @@ dependencies:
       type: git
     version: c9c51e5bef1d3e6ed1738c2c30e6bc3d35ed4714
   SEVENSEGMENT:
-    component_hash: 2a0fbfe2203f9dc522196e992dd6561dd2885687899ea29e074193bb8484a2a2
+    component_hash: 62b1074bf3eab548ebe2e99e034d8a696e661cbd842a6942bf16e414a629c53e
     source:
       git: https://github.com/kanoksiriboonkam/SevenSegment.git
       path: components/SevenSegment
       type: git
-    version: ddc56deefd7c2e7dca0d75b88841e57db0426153
+    version: 11ddd26f48bf190dfdf710ee38d15448709f906b
   idf:
     component_hash: null
     source:
